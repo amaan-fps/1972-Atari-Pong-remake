@@ -16,6 +16,6 @@ Feel free to contribute, report issues, or suggest improvements to make this Pon
 
 Note: This project is not affiliated with Atari Inc. or the original creators of Pong. It is a fan-made recreation for educational and nostalgic purposes.
 
-![Screenshot (6)](https://github.com/amaan-fps/1972-Atari-Pong-remake/assets/87180951/fc105eca-b6bb-4746-8364-66ffea6baa92)
-![Screenshot (4)](https://github.com/amaan-fps/1972-Atari-Pong-remake/assets/87180951/a06b573c-1493-40e6-888c-62e1b9402a5d)
 ![Screenshot (5)](https://github.com/amaan-fps/1972-Atari-Pong-remake/assets/87180951/5e62e681-872f-4cf7-a67a-834f04941ea7)
+![Screenshot (4)](https://github.com/amaan-fps/1972-Atari-Pong-remake/assets/87180951/a06b573c-1493-40e6-888c-62e1b9402a5d)
+![Screenshot (6)](https://github.com/amaan-fps/1972-Atari-Pong-remake/assets/87180951/fc105eca-b6bb-4746-8364-66ffea6baa92)
